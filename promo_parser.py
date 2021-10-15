@@ -1,6 +1,5 @@
 import requests
 from lxml import etree
-from urllib.request import urlopen
 
 PROMO_URL = 'https://lovikod.ru/knigi/promokody-litres'
 
